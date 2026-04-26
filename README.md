@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Ayan 
 
-<!--
-**Ayan-19M/Ayan-19M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at UIC with a strong interest in technology and problem solving. I use this GitHub profile to share projects from my coursework and personal practice as I continue developing my programming skills. Through my classes, I have worked with languages such as C++ and Python while gaining experience with data structures, debugging, and software design.
 
-Here are some ideas to get you started:
+I am especially interested in software development, systems programming, and cybersecurity. My goal is to keep learning, build stronger real-world projects, and gain internship experience where I can continue to grow as a developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+- Search Engine (C++)
+- Weather App (Python)
+- Cipher Program (C++)
+- Data Structures Projects
+- Systems / Linux Coursework
+
+## Skills
+
+C++, Python, Java, Linux, GDB
