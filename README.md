@@ -15,3 +15,11 @@ I am especially interested in software development, systems programming, and cyb
 ## Skills
 
 C++, Python, Java, Linux, GDB
+
+## Project Table of Contents
+
+- Search Engine (C++)
+- Weather App (Python)
+- Cipher Program (C++)
+- Data Structures Projects
+- Systems / Linux Coursework
